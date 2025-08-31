@@ -3,8 +3,8 @@
 A containerized full-stack chatbot application with React frontend, Python FastAPI backend, and Ollama AI integration.
 
 ## image
-![AI Chat Application Screenshot](https://github.com/agarhy/React-Ollama-Chat/main/.blob/image1.png)
-![AI Chat Application Screenshot](https://github.com/agarhy/React-Ollama-Chat/main/.blob/image2.png)
+![AI Chat Application Screenshot](https://github.com/agarhy/React-Ollama-Chat/blob/main/.blob/image1.png?raw=true)
+![AI Chat Application Screenshot](https://github.com/agarhy/React-Ollama-Chat/blob/main/.blob/image2.png?raw=true)
 
 ## 🚀 Quick Start with Docker
 
